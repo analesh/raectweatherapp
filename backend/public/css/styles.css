@@ -1,0 +1,28 @@
+
+body{
+    font-size:25px;
+    font-family:arial;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.main-content{
+    flex-grow: 1;
+}
+
+header h1{
+    color: black;
+}
+
+header a{
+    color: gray;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+footer p{
+    color: gray;
+    margin-top: 20px;
+    margin-bottom: 0;
+    border-top: solid 1px aliceblue;
+}

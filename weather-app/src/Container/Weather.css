@@ -1,0 +1,70 @@
+/*-- agileinfo-text --*/
+.mainwthreerow {
+    width: 25%;
+
+    margin: 2em auto;
+    background: rgba(0, 0, 0, 0.34);
+    background-size: cover;
+    padding: 2em;
+}
+
+.agileinfo {
+    margin: 0;
+    text-align: center;
+}
+.agileinfo h3 {
+    margin: 0;
+    font-size: 2em;
+    color: #fff;
+}
+.agileinfo h5 {
+
+    font-size: 0.9em;
+    color: #ececec;
+    font-weight: 100;
+    margin-top: 0.5em;
+}
+.agileinfo h2 {
+    font-size: 8em;
+    margin: 0;
+    font-weight: 900;
+    color: rgba(255, 215, 1, 0.59);
+}
+.agileinfo h2 span {
+    font-weight: 100;
+    font-size: 0.5em;
+    vertical-align: text-top;
+}
+.agileinfo h4 {
+    font-size: 2em;
+    color: #fff;
+    letter-spacing: 3px;
+    margin-bottom: 2px;
+}
+.agileinfo h6 {
+    font-size: .9em;
+    color: #fff;
+    font-weight: 300;
+    letter-spacing: 1px;
+    margin-top: 1em;
+}
+.w3layouts-slider {
+    width: 70%;
+    margin: 3em auto 0;
+}
+.item.agile-item {
+    text-align: center;
+}
+.agile-item h6 {
+    font-size: 0.9em;
+    color: #fff;
+    font-weight: 300;
+}
+
+.date {
+    font-size: 1.4em;
+    color: #fff;
+    font-weight: 400;
+    line-height: 1.8em;
+    margin: 0;
+}

@@ -1,0 +1,10 @@
+<input type="search" id="address-input" placeholder="Where are we going?" />
+
+<script src="https://cdn.jsdelivr.net/npm/places.js@1.16.4"></script>
+<script>
+    var placesAutocomplete = places({
+        appId: 'plFL7OBSEJZW',
+        apiKey: '708f6ee3431c77af5c89c6170b6e7ab9',
+        container: document.querySelector('#address-input')
+    });
+</script>
