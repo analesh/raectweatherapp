@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fc38445f-9fc6-4936-ac8b-4dcea56dbd42" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather-app/src/Container/Weather.css" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/src/Container/Weather.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.ChangelistConflict" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -79,7 +78,7 @@
       <workItem from="1569309069483" duration="11079000" />
       <workItem from="1569657838333" duration="12127000" />
       <workItem from="1569783892831" duration="17609000" />
-      <workItem from="1569937687459" duration="5119000" />
+      <workItem from="1569937687459" duration="7374000" />
     </task>
     <task id="LOCAL-00001" summary="This is first commit">
       <created>1569318568769</created>
@@ -130,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569940980500</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="This is second commit">
+      <created>1569944909701</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569944909701</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
