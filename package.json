@@ -5,12 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "concurrently \"cd backend && nodemon src/app.js\" \"cd weather-app && npm start\""
+    "start": "concurrently \"cd backend && node src/app.js\" \"cd weather-app && npm run build\""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "concurrently": "^4.1.2"
+    "concurrently": "^4.1.2",
+    "express": "^4.16.4",
+    "hbs": "^4.0.4",
+    "request": "^2.88.0"
   }
 }
