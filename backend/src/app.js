@@ -11,19 +11,22 @@ const port = process.env.PORT || 3001
 const publicdirectory = path.join(__dirname,'../public');
 const viewsdirectory = path.join(__dirname,'../templates/views')
 const partialsdirectory = path.join(__dirname, '../templates/partials');
-
-if(process.env.NODE_ENV ==="production"){
-    app.use(express.static("../../weather-app/build"))
-}
-
-// Setup handelbars and view location
-app.set('view engine', 'hbs');
-app.set('views', viewsdirectory);
-hbs.registerPartials(partialsdirectory);
+const dirrrrrr= path.join(__dirname, '../../weather-app/build')
 
 
-//setup static dir to serve
-//app.use(express.static(publicdirectory));
+// if(process.env.NODE_ENV ==="production"){
+//     app.use(express.static("../../weather-app/build"))
+// }
+app.use(express.static(dirrrrrr))
+
+// // Setup handelbars and view location
+// app.set('view engine', 'hbs');
+// app.set('views', viewsdirectory);
+// hbs.registerPartials(partialsdirectory);
+//
+// app.use(express.static(publicdirectory));
+
+
 
 
 app.get('', (req,res) =>{

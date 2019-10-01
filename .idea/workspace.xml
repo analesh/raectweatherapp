@@ -3,6 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="fc38445f-9fc6-4936-ac8b-4dcea56dbd42" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather-app/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather-app/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather-app/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather-app/build/precache-manifest.312842fa21ee66bdca39ef756ad9f8bc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather-app/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/build/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather-app/build/static/js/main.2cfe6b71.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather-app/build/static/js/main.2cfe6b71.chunk.js.map" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -77,6 +85,7 @@
       <workItem from="1569309069483" duration="11079000" />
       <workItem from="1569657838333" duration="12127000" />
       <workItem from="1569783892831" duration="17609000" />
+      <workItem from="1569937687459" duration="2406000" />
     </task>
     <task id="LOCAL-00001" summary="This is first commit">
       <created>1569318568769</created>
