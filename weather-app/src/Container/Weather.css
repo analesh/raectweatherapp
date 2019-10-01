@@ -111,9 +111,7 @@
     .date {
         font-size: 1.2em;
     }
-    .w3layouts-slider {
-        width: 75%;
-    }
+
 }
 @media(max-width:414px){
     .agileinfo h2 {

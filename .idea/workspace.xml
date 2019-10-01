@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc38445f-9fc6-4936-ac8b-4dcea56dbd42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/weather-app/build/precache-manifest.1bc42a37a766f57953151f93163640fe.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/src/Container/Weather.css" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/src/Container/Weather.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +78,7 @@
       <workItem from="1569309069483" duration="11079000" />
       <workItem from="1569657838333" duration="12127000" />
       <workItem from="1569783892831" duration="17609000" />
-      <workItem from="1569937687459" duration="7374000" />
+      <workItem from="1569937687459" duration="8255000" />
     </task>
     <task id="LOCAL-00001" summary="This is first commit">
       <created>1569318568769</created>
@@ -136,7 +136,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569944909701</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="responsive">
+      <created>1569947064541</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1569947064541</updated>
+    </task>
+    <task id="LOCAL-00010" summary="responsive">
+      <created>1569947286237</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1569947286237</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +175,7 @@
     </ignored-roots>
     <MESSAGE value="This is first commit" />
     <MESSAGE value="This is second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is second commit" />
+    <MESSAGE value="responsive" />
+    <option name="LAST_COMMIT_MESSAGE" value="responsive" />
   </component>
 </project>
